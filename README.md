@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![wnk-uk GitHub stats](https://github-readme-stats.vercel.app/api?username=wnk-uk&show_icons=true&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnk-uk&layout=compact)
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarnddnr)](https://solved.ac/skarnddnr)
