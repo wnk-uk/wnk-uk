@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![wnk-uk GitHub stats](https://github-readme-stats.vercel.app/api?username=wnk-uk&show_icons=true&theme=transparent)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarnddnr)](https://solved.ac/skarnddnr)
